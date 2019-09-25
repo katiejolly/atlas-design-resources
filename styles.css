@@ -71,3 +71,7 @@ ul {
   clear: both;
   display: table;
 }
+
+.note {
+  color: #82312E;
+}
